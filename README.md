@@ -1,0 +1,2 @@
+# Text Correction App
+This repo holds the code for a grammar correction app, which utilizes the open source [gramformer library](https://github.com/PrithivirajDamodaran/Gramformer) built by [Prithviraj Damodaran](https://github.com/PrithivirajDamodaran)
